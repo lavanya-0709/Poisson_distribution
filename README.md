@@ -73,7 +73,8 @@ else:
 
 # Output :
 
-![Alt text](output.png)
+![output](https://github.com/Renusri-Naraharasetty/Poisson_distribution/assets/146916363/bbe1e704-bb44-44ee-bd91-60cd0758a0cc)
+
 
 
 # Results
