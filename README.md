@@ -1,3 +1,5 @@
+# Name: LAVANYA S
+# Reg No:23012917
 # Fitting Poisson  distribution
 # Aim : 
 
